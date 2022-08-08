@@ -24,6 +24,7 @@ p {
   color: white;
  text-align: justify;
  position: relative;
+overflow: hidden;
  
 
 }
